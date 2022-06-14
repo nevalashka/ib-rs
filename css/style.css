@@ -88,7 +88,6 @@ body {
 }
 @media (min-width: 1200px) {
   body {
-    max-width: 1300px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -823,7 +822,7 @@ footer .bottom-footer-row .media a:not(:last-child) {
   }
 }
 .desktop .consist h2 {
-  font-size: 3.4rem;
+  font-size: 2.8rem;
   margin-bottom: 25px;
   margin-top: 70px;
 }
